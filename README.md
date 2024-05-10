@@ -4,7 +4,8 @@
 O projeto do jogo de ping-pong foi desenvolvido durante as aulas de Lógica de Programação, no curso de Front End Master - Dev Samurai, utilizando HTML, CSS e JavaScript básico.  
 O jogo, até o presente momento, não possui suporte para conectar dois jogadores diferentes, ou seja, você joga apenas contra a maquina. 
 
-[<img src="./Animação-Ping-Ping-Jogo.gif" alt="Gravação de tela do jogo ping pong">]
+![Animação-Ping-Ping-Jogo](https://github.com/LorraineF-A/jogo-ping-pong/assets/107505093/dca8faac-5c0b-474f-9d49-4f1b687b8ef7)
+
 
 ## Como Funciona ? 
 - Raquete Esquerda (humano):
